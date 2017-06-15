@@ -13,7 +13,6 @@ html {
     background: linear-gradient(to left, #FF4E50, #F9D423);
     -webkit-transition: all .5s ease;
     transition: all .5s ease;
-    overflow: hidden;
     font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -35,7 +34,7 @@ html {
 
 .title {
     position: absolute;
-    top: 40%;
+    top: 50%;
     left: 0;
     right: 0;
     -webkit-transform: translateY(-50%);
@@ -44,7 +43,7 @@ html {
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-size: 80px;
+    font-size: 40px;
     text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.2);
     z-index: 1000;
 }
@@ -53,6 +52,7 @@ html {
     color: #fff;
     text-transform: none;
     text-decoration: none;
-    font-size: 50px;
+    font-size: 30px;
     letter-spacing: 0;
+    white-space: pre-wrap;
 }
