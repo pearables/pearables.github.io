@@ -43,7 +43,7 @@ html {
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-size: 40px;
+    font-size: 60px;
     text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.2);
     z-index: 1000;
 }
@@ -52,7 +52,7 @@ html {
     color: #fff;
     text-transform: none;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 50px;
     letter-spacing: 0;
     white-space: pre-wrap;
 }
