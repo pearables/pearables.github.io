@@ -30,3 +30,7 @@ html {
     z-index: 1000;
     white-space: pre-line;
 }
+
+a:link {
+    text-decoration: none;
+}
